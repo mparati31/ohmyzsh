@@ -1,4 +1,5 @@
 # mparati.zsh-theme
+# Based on dstufft (https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/dstufft.zsh-theme) theme.
 
 PROMPT='
 %{$fg[magenta]%}%n%{$reset_color%} in %{$fg_bold[green]%}%~%{$reset_color%}$(git_prompt_info)
